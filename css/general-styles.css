@@ -130,6 +130,7 @@ h3 {
 
 .vaccine-column img {
   width: 60%;
+  margin:0 auto;
 }
 
 .vaccine-column:hover {
